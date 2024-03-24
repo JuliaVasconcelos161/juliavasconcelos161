@@ -3,7 +3,7 @@
 </h1>
 
 <p align="justify">
-  Apaixonada pelo mundo do desenvolvimento de desenvolvimento, estou constantemente aprofundando meus conhecimentos em áreas afins. Atualmente, concentro meus estudos em arquitetura de microsserviços, aprendendo sobre como estruturá-los e sobre a comunicação entre eles. Meu domínio abrange a linguagem Java, o framework SpringBoot, e banco de dados relacionais, mas estou determinada a explorar bancos de dados não-relacionais também, além de me aprofundar em testes, para que consiga criar softwares com cada vez mais qualidade. 
+  Apaixonada pelo mundo de desenvolvimento, estou constantemente aprofundando meus conhecimentos em áreas afins. Atualmente, concentro meus estudos em arquitetura de microsserviços, aprendendo sobre como estruturá-los e sobre a comunicação entre eles. Meu domínio abrange a linguagem Java, o framework SpringBoot, e banco de dados relacionais, mas estou determinada a explorar bancos de dados não-relacionais também, além de me aprofundar em testes, para que consiga criar softwares com cada vez mais qualidade. 
 </p>
 <p align="justify">
   Estou cursando Sistemas de Informação no UNIPAM, e atuo como desenvolvedora de software júnior, o que me possibilita ampliar minhas habilidades, melhorando minha capacidade de resolução de problemas e minha comunicação a cada desafio que me é apresentado.
